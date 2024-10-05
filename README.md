@@ -19,4 +19,4 @@ I'm a passionate software engineer with a love for creating innovative solutions
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushhdesai&show_icons=true&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhdesai&" alt="tanyabatra541" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhdesai&" alt="ayushhdesai" /></p>
