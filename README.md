@@ -13,5 +13,5 @@ I'm a passionate software engineer with a love for creating innovative solutions
 ## 📫 Get in Touch
 
 - LinkedIn: [linkedin.com/in/ayushhdesai](https://linkedin.com/in/ayushhdesai)
-- Email: desai.ayus@northeastern.edu / aayushdesai88@gmail.com
+- Email: desai.ayus@northeastern.edu
 - Portfolio: https://portfolio-ad-eight.vercel.app/
